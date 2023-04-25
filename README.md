@@ -1,4 +1,4 @@
-# MultiToken MultiSig Wallet :lock: :key:
+# :lock: :key: MultiToken MultiSig Wallet
 
 A MultiSigWallet with ERC20 Support. This repository contains a **MultiSigWallet** smart contract with support for **ERC20** tokens, developed using **Foundry** and **Solidity 0.8.13**. The smart contract allows multiple owners to manage a wallet with a required quorum for executing transactions, including transfers of ERC20 tokens.
 
