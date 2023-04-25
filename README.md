@@ -4,7 +4,7 @@ A MultiSigWallet with ERC20 Support. This repository contains a **MultiSigWallet
 
 ## :wrench: Development Tools
 
-- **Solidity**: We used Solidity version **0.8.13** to write the smart contracts in this repository.
+- **Solidity**: I've used Solidity version **0.8.13** to write the smart contracts in this repository.
 - **Foundry**: a blazing fast, portable and modular toolkit for Ethereum application development written in Rust.
 
 ## :open_file_folder: Repository Structure
